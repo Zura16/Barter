@@ -1,6 +1,6 @@
 # Barter
 
-Barter is a web application designed to facilitate trading and exchanging goods and services. Built using React, Vite, TypeScript, and Tailwind CSS, the platform integrates with Appwrite Cloud for authentication, database storage, and file management. Users can share items they want to trade, specify the item's condition, define what they want in exchange, estimate its value, track the trade status, and propose trade offers to other users.
+Barter is a software platform designed to facilitate trading and exchanging goods and services. Built using React, Vite, TypeScript, and Tailwind CSS, the platform integrates with Appwrite Cloud for authentication, database storage, and file management. Users can share items they want to trade, specify the item's condition, define what they want in exchange, estimate its value, track the trade status, and propose trade offers to other users.
 
 ## Features
 
